@@ -292,7 +292,9 @@
       "github": "toireasam",
       "slack": "UEJ4WQLGH"
     },
-      "github": "jackmaloney",
-      "slack": "U7PGW3YBV"
+    {  
+       "github": "jackmaloney",
+       "slack": "U7PGW3YBV"
+    }
   ]
 }
