@@ -292,9 +292,9 @@
       "github": "toireasam",
       "slack": "UEJ4WQLGH"
     },
-    {  
-       "github": "jackmaloney",
-       "slack": "U7PGW3YBV"
+    {
+      "github": "jackmaloney",
+      "slack": "U7PGW3YBV"
     },
     {
       "github": "ryandac",
@@ -320,13 +320,17 @@
       "github": "LucaDelBuonoHMCTS",
       "slack": "UC5MWTJ3F"
     },
-   {
-     "github": "klawani",
-     "slack": "UGF7CQX1N"
-   },
-   {
-     "github": "jvictorcf",
-     "slack": "UD4JLN8S1"
-   }
+    {
+      "github": "klawani",
+      "slack": "UGF7CQX1N"
+    },
+    {
+      "github": "jvictorcf",
+      "slack": "UD4JLN8S1"
+    },
+    {
+      "github": "CoffeeOwl97",
+      "slack": "UJRHJKHEC"
+    }
   ]
 }
