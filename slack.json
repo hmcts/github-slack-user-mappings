@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "github": "alexwakeman",
+      "slack": "alex.wakeman"
+    },
+    {
       "github": "dharmendrak",
       "slack": "dharmendrak"
     },
@@ -292,9 +296,9 @@
       "github": "toireasam",
       "slack": "UEJ4WQLGH"
     },
-    {  
-       "github": "jackmaloney",
-       "slack": "U7PGW3YBV"
+    {
+      "github": "jackmaloney",
+      "slack": "U7PGW3YBV"
     },
     {
       "github": "ryandac",
@@ -315,6 +319,46 @@
     {
       "github": "matthewspeake-hmcts",
       "slack": "UC5832N3H"
+    },
+    {
+      "github": "raghera",
+      "slack": "UE8HDRK41"
+    },
+    {
+      "github": "davejones74",
+      "slack": "dave.jones"
+    },
+    {
+      "github": "LucaDelBuonoHMCTS",
+      "slack": "UC5MWTJ3F"
+    },
+    {
+      "github": "klawani",
+      "slack": "UGF7CQX1N"
+    },
+    {
+      "github": "jvictorcf",
+      "slack": "UD4JLN8S1"
+    },
+    {
+      "github": "CoffeeOwl97",
+      "slack": "UJRHJKHEC"
+    },
+    {
+     "github": "iichr",
+     "slack": "UJ0T6CS8J"
+    },
+    {
+      "github": "adusumillipraveen",
+      "slack": "praveen.adusumilli"
+    },
+    {
+      "github": "vrajadurai",
+      "slack": "UJQ8U9F99"
+    },
+    {
+      "github": "smathangi",
+      "slack": "U9P0T3LAW"
     }
   ]
 }
