@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "github": "alexwakeman",
+      "slack": "alex.wakeman"
+    },
+    {
       "github": "dharmendrak",
       "slack": "dharmendrak"
     },
@@ -339,6 +343,10 @@
     {
       "github": "vrajadurai",
       "slack": "UJQ8U9F99"
+    },
+    {
+      "github": "smathangi",
+      "slack": "U9P0T3LAW"
     }
   ]
 }
