@@ -414,7 +414,11 @@
     },
     {
       "github": "dependabot-preview[bot]",
-      "slack": "iamabot"
+      "slack": "iamabotuser"
+    },
+    {
+      "github": "dependabot[bot]",
+      "slack": "iamabotuser"
     },
     {
       "github": "iguannago",
