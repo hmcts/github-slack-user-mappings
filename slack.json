@@ -409,8 +409,16 @@
       "slack": "UEJPUDGM8"
     },
     {
+      "github": "makowalski",
+      "slack": "UK9ND259U"
+    },
+    {
       "github": "dependabot-preview[bot]",
       "slack": "iamabot"
+    },
+    {
+      "github": "iguannago",
+      "slack": "U39A7QZTP"
     }
   ]
 }
