@@ -365,9 +365,49 @@
       "slack": "U3PK6K1D1"
     },
     {
+      "github": "Cotterale",
+      "slack": "UJCBYMDT2"
+    },
+    {
+      "github": "ravinderpal",
+      "slack": "UCK9UF39N"
+    },
+    {
       "github": "izelaciman",
       "slack": "UERPEJH27"
     },
+    {
+      "github": "makowalski",
+      "slack": "UK9ND259U"
+    },
+    {
+      "github": "dtaylor7",
+      "slack": "U3Q13KM9Q"
+    },
+    {
+      "github": "mounikahmcts",
+      "slack": "UCQG1P5QA"
+    },
+    {
+      "github": "gavinclark",
+      "slack": "UDQG20KUL"
+    },
+    {
+      "github": "johnoneill46",
+      "slack": "U94BR1W03"
+    },
+    {
+      "github": "dizrupto",
+      "slack": "UJK8TNJG7"
+    },
+    {
+      "github": "charlesluokb",
+      "slack": "UKM3RLCCQ"
+    },
+    {
+      "github": "magicobject",
+      "slack": "UJCBJK3EC"
+    },    
     {
       "github": "t0nin0s",
       "slack": "UEJPUDGM8"
@@ -377,8 +417,24 @@
       "slack": "UM9CD7L5T"
     },
     {
+      "github": "makowalski",
+      "slack": "UK9ND259U"
+    },
+    {
+      "github": "bradsorour",
+      "slack": "UKRSFGJSK"
+    },    
+    {
       "github": "dependabot-preview[bot]",
-      "slack": "iamabot"
+      "slack": "iamabotuser"
+    },
+    {
+      "github": "dependabot[bot]",
+      "slack": "iamabotuser"
+    },
+    {
+      "github": "iguannago",
+      "slack": "U39A7QZTP"
     }
   ]
 }
