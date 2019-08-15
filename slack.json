@@ -407,7 +407,7 @@
     {
       "github": "magicobject",
       "slack": "UJCBJK3EC"
-    },    
+    },
     {
       "github": "t0nin0s",
       "slack": "UEJPUDGM8"
@@ -423,7 +423,7 @@
     {
       "github": "bradsorour",
       "slack": "UKRSFGJSK"
-    },    
+    },
     {
       "github": "dependabot-preview[bot]",
       "slack": "iamabotuser"
@@ -435,6 +435,22 @@
     {
       "github": "iguannago",
       "slack": "U39A7QZTP"
+    },
+    {
+      "github": "arcotc",
+      "slack": "DDJRZF925"
+    },
+    {
+      "github": "chris-moreton",
+      "slack": "UCMTUDK9U"
+    },
+    {
+      "github": "chrisdavecm",
+      "slack": "UB184LCAW"
+    },
+    {
+      "github": "adnanakgun",
+      "slack": "UEE08ESAW"
     }
   ]
 }
