@@ -1,0 +1,20 @@
+name: Lint slack.json
+
+on:
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Lint slack.json
+      run: |
+        cat slack.json | python -m json.tool  >> /dev/null && exit 0 || echo "Invalid JSON"; exit 1
