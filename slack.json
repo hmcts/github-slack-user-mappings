@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "github": "apereverzin",
+      "slack": "UMTPTNGLT"
+    },
+    {
       "github": "mdayican",
       "slack": "mustafa"
     },
