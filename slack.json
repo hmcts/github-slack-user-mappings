@@ -461,6 +461,10 @@
       "slack": "iamabotuser"
     },
     {
+      "github": "snyk-bot",
+      "slack": "iamabotuser"
+    },
+    {
       "github": "iguannago",
       "slack": "U39A7QZTP"
     },
