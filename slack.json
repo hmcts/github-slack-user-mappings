@@ -469,6 +469,10 @@
       "slack": "iamabotuser"
     },
     {
+      "github": "renovate[bot]",
+      "slack": "iamabotuser"
+    },
+    {
       "github": "snyk-bot",
       "slack": "iamabotuser"
     },
