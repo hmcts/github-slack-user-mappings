@@ -1027,7 +1027,7 @@
     {
       "github": "jonsoloway-hmcts",
       "slack": "U018YPFCF50"
-    }, 
+    },
     {
       "github": "elvianihuseyin",
       "slack": "U0182L07PEU"
@@ -1044,16 +1044,16 @@
       "github": "rajkatla-hmcts",
       "slack": "U01BS8WSV8T"
     },
-    { 
-      "github": "stelioskalo", 
-      "slack": "U01AM01ASRL" 
-    },
-    { 
-      "github": "itoulou", 
-      "slack": "U019K5D244D" 
+    {
+      "github": "stelioskalo",
+      "slack": "U01AM01ASRL"
     },
     {
-      "github": "leepavlouhmcts", 
+      "github": "itoulou",
+      "slack": "U019K5D244D"
+    },
+    {
+      "github": "leepavlouhmcts",
       "slack": "U01CD2T8E78"
     },
     {
@@ -1067,6 +1067,10 @@
     {
       "github": "connorpgpmcelroy",
       "slack": "U01DL3S8HB5"
+    },
+    {
+      "github": "sameer4414",
+      "slack": "U01E0AD9CSK"
     }
   ]
 }
