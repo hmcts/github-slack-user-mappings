@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "github": "phillip-whitaker",
+      "slack": "U01GU9370M8"
+    },
+    {
       "github": "jhart-dev",
       "slack": "U01A52ZRMRC"
     },
@@ -81,8 +85,8 @@
       "slack": "rafall"
     },
     {
-      "github": "geek-soft",
-      "slack": "damiand"
+      "github": "DamianDunajski",
+      "slack": "U01LWMJ9J5B"
     },
     {
       "github": "yarpo",
@@ -621,7 +625,7 @@
       "slack": "UAC3HF99N"
     },
     {
-      "github": "BenDoherty0103",
+      "github": "bendoc1996",
       "slack": "UGJAXK52T"
     },
     {
@@ -643,6 +647,10 @@
     {
       "github": "shravanmechineni",
       "slack": "UKHUPP5EU"
+    },
+    {
+      "github": "SebFlippence",
+      "slack": "U01KKHZLDV1"
     },
     {
       "github": "linusnorton",
@@ -877,6 +885,14 @@
       "slack": "ULX3W9JFN"
     },
     {
+      "github": "vigneshpushkaranHMCTS",
+      "slack": "U019WTVS10R"
+    },
+    {
+      "github": "prashant-khunte",
+      "slack": "U018Q6QSU10"
+    },
+    {
       "github": "ruban72",
       "slack": "UCZGVPLF5"
     },
@@ -1027,7 +1043,7 @@
     {
       "github": "jonsoloway-hmcts",
       "slack": "U018YPFCF50"
-    }, 
+    },
     {
       "github": "elvianihuseyin",
       "slack": "U0182L07PEU"
@@ -1044,16 +1060,16 @@
       "github": "rajkatla-hmcts",
       "slack": "U01BS8WSV8T"
     },
-    { 
-      "github": "stelioskalo", 
-      "slack": "U01AM01ASRL" 
-    },
-    { 
-      "github": "itoulou", 
-      "slack": "U019K5D244D" 
+    {
+      "github": "stelioskalo",
+      "slack": "U01AM01ASRL"
     },
     {
-      "github": "leepavlouhmcts", 
+      "github": "itoulou",
+      "slack": "U019K5D244D"
+    },
+    {
+      "github": "leepavlouhmcts",
       "slack": "U01CD2T8E78"
     },
     {
@@ -1067,6 +1083,94 @@
     {
       "github": "connorpgpmcelroy",
       "slack": "U01DL3S8HB5"
+    },
+    {
+      "github": "sameer4414",
+      "slack": "U01E0AD9CSK"
+    },
+    {
+      "github": "BenNzewi",
+      "slack": "U015ZUF9FUP"
+    },
+    {
+      "github": "msl8r",
+      "slack": "U01CXQ7PJ9F"
+    },
+    {
+      "github": "paulhowes-HMCTS",
+      "slack": "U01BS56617F"
+    },
+    {
+      "github": "andytaylorkainos",
+      "slack": "U01FEC02DAR"
+    },
+    {
+      "github": "Jennings-HMCTS",
+      "slack": "U019CA22SR5"
+    },
+    {
+      "github": "indvamshi",
+      "slack": "U01E8KAFLPR"
+    },
+    {
+      "github": "SooryaSu",
+      "slack": "U01HHV77KJN"
+    },
+    {
+      "github": "AnilDhawaleGitHub",
+      "slack": "UL4AL8PSB"
+    },
+    {
+      "github": "kumarmadurai",
+      "slack": "UKPS44A2E"
+    },
+    {
+      "github": "Abi-Laver",
+      "slack": "U01CNK15JGK"
+    },
+    {
+      "github": "lara-mpt",
+      "slack": "U01H05FCWFJ"
+    },
+    {
+      "github": "crimesp",
+      "slack": "U01GNSAUZ6V"
+    },
+    {
+      "github": "adamjhc",
+      "slack": "U01KF7WP6FR"
+    },
+    {
+      "github": "amitchidrewar1301",
+      "slack": "ULLL08R7H"
+    },
+    {
+      "github": "yyaremchuk",
+      "slack": "U01L6F20ZM1"
+    },
+    {
+      "github": "uzairbaig",
+      "slack": "U01JVM5ADAM"
+    },
+    {
+      "github": "devmarcy",
+      "slack": "U01KNL770MP"
+    },
+    {
+      "github": "alanwilliamsmoj",
+      "slack": "U01LKQU9H1P"
+    },
+    {
+      "github": "selvameenadhandapani",
+      "slack": "U01LQ1YN75G"
+    },
+    {
+      "github": "SujeethKumarAri",
+      "slack": "U01E3F9H4M6"
+    },
+    {
+      "github": "ishratt",
+      "slack": "U01KY18BGG5"
     }
   ]
 }
