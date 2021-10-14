@@ -3,7 +3,7 @@
      {
       "github": "satvinder-hullait",
       "slack": "U02A96X0QV9"
-    },  
+    },
     {
        "github": "vgulapally",
        "slack": "U02A80UCA65"
@@ -1411,13 +1411,13 @@
       "github": "cakeben",
       "slack": "U8VV2UT17"
     },
-    { 
-      "github": "rapritchard", 
-      "slack": "U02ANPYQ9T8" 
+    {
+      "github": "rapritchard",
+      "slack": "U02ANPYQ9T8"
     },
-    { 
-      "github": "commitBlob", 
-      "slack": "U022GP8NJDR" 
+    {
+      "github": "commitBlob",
+      "slack": "U022GP8NJDR"
     },
     {
       "github": "markdathornehmcts",
@@ -1439,7 +1439,7 @@
       "github": "waynepHMCTS",
       "slack": "U02DGG9Q8RH"
     },
-    { 
+    {
       "github": "sakanam",
       "slack": "U029QC4M3M5"
     },
@@ -1462,6 +1462,10 @@
     {
       "github": "kingsley-amadu",
       "slack": "U02G46X8SFQ"
+    },
+    {
+      "github": "bweeks-justicegovuk",
+      "slack": "U02HZRQDNF3"
     }
  ]
 }
