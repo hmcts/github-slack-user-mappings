@@ -8,15 +8,15 @@
       "github": "PrasadKumarP",
       "slack": "U02D0N90T35"
     },
-     {
+    {
       "github": "satvinder-hullait",
       "slack": "U02A96X0QV9"
     },
     {
-       "github": "vgulapally",
-       "slack": "U02A80UCA65"
-      },
-     {
+      "github": "vgulapally",
+      "slack": "U02A80UCA65"
+    },
+    {
       "github": "akriti-hmcts",
       "slack": "U02ADS2MDJ7"
     },
@@ -1295,7 +1295,7 @@
     {
       "github": "Ayisha-Sharjeel",
       "slack": "U01S0SMMEFJ"
-        },
+    },
     {
       "github": "mokainos",
       "slack": "U01BP3TMTD3"
@@ -1352,31 +1352,40 @@
       "github": "kavithagade12",
       "slack": "U01NTD7T6CD"
     },
-    { "github": "AbdullahShahHMCTS",
+    {
+      "github": "AbdullahShahHMCTS",
       "slack": "U01HZCN85FH"
     },
-    { "github": "zakishaik",
+    {
+      "github": "zakishaik",
       "slack": "UESBZA770"
     },
-    { "github": "padmapriyanalam",
+    {
+      "github": "padmapriyanalam",
       "slack": "U01TEH51LTX"
     },
-    { "github": "anatolysan",
+    {
+      "github": "anatolysan",
       "slack": "U01KFFGA9HS"
     },
-    { "github": "ashwini-mv",
+    {
+      "github": "ashwini-mv",
       "slack": "U021DMGR1B5"
     },
-    { "github": "mariyajagan-nadar",
+    {
+      "github": "mariyajagan-nadar",
       "slack": "U0209QRKUDQ"
     },
-    { "github": "abottenberg",
+    {
+      "github": "abottenberg",
       "slack": "U01KX9Q9VEK"
     },
-    {"github": "scotty2791",
+    {
+      "github": "scotty2791",
       "slack": "U01LJ1NHH9R"
     },
-    {"github": "paulridout",
+    {
+      "github": "paulridout",
       "slack": "U021S9PU3ST"
     },
     {
@@ -1514,6 +1523,10 @@
     {
       "github": "dtortolaV1",
       "slack": "U02J69SEVFG"
+    },
+    {
+      "github": "Michael1142",
+      "slack": "U02E65ZP0AJ"
     }
- ]
+  ]
 }
