@@ -1660,9 +1660,13 @@
       "github": "aramchurn21",
       "slack": "U02KSJC1FQS"
     },
-    {      
+    {
       "github": "so99y",
       "slack": "U02PYPH4QQJ"
+    },
+    {
+      "github": "kamilewandowski",
+      "slack": "U02N7L8ETUY"
     },
     {
       "github": "aasheishmody",
@@ -1675,6 +1679,34 @@
     {
       "github": "suetlaiHMCTS",
       "slack": "U02MHTFAP4J"
+    },
+    {
+      "github": "tautvydas-cerniauskas",
+      "slack": "U02MANK4KGA"
+    },
+    {
+      "github": "bensonlievoco",
+      "slack": "U02N1JBADT6"
+    },
+    {
+      "github": "zc-hmcts",
+      "slack": "U87M4QH9Q"
+    },
+    {
+      "github": "tarikdogan-hmcts",
+      "slack": "U02HP87CW49"
+    },
+    {
+      "github": "smitatalawadekar-hmcts",
+      "slack": "U02L8PH89FT"
+    },
+    {
+      "github": "amoriartyMOJ",
+      "slack": "U02QVA4JF3K"
+    },
+    {
+      "github": "qasimnawaz-moj",
+      "slack": "U02R2GGRPNG"
     }
   ]
 }
