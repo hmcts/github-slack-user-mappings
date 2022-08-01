@@ -2049,7 +2049,7 @@
     {
       "github": "ThomasKKC",
       "slack": "U0325MN696W"
-    },    
+    },
     {
       "github": "mapingo",
       "slack": "U01ANDRUG5N"
@@ -2163,8 +2163,8 @@
       "slack": "U03FCQ5PZPY"
     },
     {
-      "github": "Azam-Hmcts", 
-      "slack": "U03HGLTKTH8" 
+      "github": "Azam-Hmcts",
+      "slack": "U03HGLTKTH8"
     },
     {
       "github": "JamesCollettCGI",
@@ -2209,18 +2209,22 @@
     {
       "github": "hajam09",
       "slack": "U033J0D118E"
-    }, 
+    },
     {
       "github": "MarianIrudayanathan",
       "slack": "U03LHEN6ZK5"
-    }, 
+    },
     {
       "github": "hmcts-version1-pablo",
       "slack": "U03LV050U3Y"
-    }, 
+    },
     {
       "github": "hmcts-version1-domini",
       "slack": "U03MLDYRT6U"
+    },
+    {
+      "github": "JayDoubleu",
+      "slack": "U03L3E61AAV"
     }
   ]
 }
