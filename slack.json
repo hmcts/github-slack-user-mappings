@@ -12,9 +12,13 @@
       "github": "ReachmeonGit",
       "slack": "U02MFUW4PB5"
     },
-    { 
+    {
       "github": "JamesBoadi",
       "slack": "U044F2KU8TH"
+    },  
+    {
+      "github": "abhiahirv1",
+      "slack": "U047ATK58RL"
     },
     {
       "github": "CharchitHmcts",
@@ -2425,6 +2429,10 @@
 	{
 		"github": "altairhm",
 		"slack": "U04A3M7PXTK"
+	},
+	{
+	  "github": "mfallonhmcts",
+	  "slack": "U044DE61S0P"
 	}
   ]
 }
