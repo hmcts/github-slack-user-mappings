@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "github": "Majid-justice",
+      "slack": "U01PDCVBQ91"
+    },
+    {
       "github": "sjamihmcts",
       "slack": "U03PX99UCS0"
     },
@@ -802,7 +806,7 @@
     },
     {
       "github": "tomxelliott",
-      "slack": "tom.elliott"
+      "slack": "U021V6WRE84"
     },
     {
       "github": "velimd",
@@ -1190,7 +1194,7 @@
     },
     {
       "github": "mkayad",
-      "slack": "U022JQM4RN1"
+      "slack": "U015V2P4D7F"
     },
     {
       "github": "avi-hmcts",
@@ -1438,7 +1442,7 @@
     },
     {
       "github": "Thomas-Geraghty",
-      "slack": "U01Q21AM1T3"
+      "slack": "U01PK42PK9S"
     },
     {
       "github": "amstevenson",
@@ -1478,7 +1482,7 @@
     },
     {
       "github": "ashwini-mv",
-      "slack": "U021DMGR1B5"
+      "slack": "U01VAKJCQE7"
     },
     {
       "github": "mariyajagan-nadar",
@@ -2378,7 +2382,7 @@
     },
     {
       "github": "mrmsali",
-      "slack": "U03F2K71J0G"
+      "slack": "U03EF7KLMD2"
     },
     {
       "github": "DennisHoV1",
@@ -2615,6 +2619,10 @@
     {
       "github": "DaveHmcts",
       "slack": "U04QAPQPC8N"
+    },
+    {
+      "github": "rhysbeazleyy",
+      "slack": "U04PJE61P44"
     }
   ]
 }
