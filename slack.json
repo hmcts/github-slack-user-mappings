@@ -2744,7 +2744,7 @@
       "github": "chrisbellingham-hmcts",
       "slack": "U054KGNM8TG"
     },
-     {
+    {
       "github": "ATedy",
       "slack": "U04ARRPA7FU"
     },
@@ -2792,16 +2792,20 @@
       "github": "JordanHoey96",
       "slack": "U055T225PPS"
     },
-    { "github": "SammiChong",
+    {
+      "github": "SammiChong",
       "slack": "U0563C1KH1B"
     },
-    { "github": "aaronjduffy",
+    {
+      "github": "aaronjduffy",
       "slack": "U050CDHA0LE"
     },
-    { "github": "rhodrif",
+    {
+      "github": "rhodrif",
       "slack": "U0540Q9PN2H"
     },
-    { "github": "annika-moorthy",
+    {
+      "github": "annika-moorthy",
       "slack": "U025ER7JUMP"
     },
     {
@@ -2840,24 +2844,33 @@
       "github": "trev-hmcts",
       "slack": "U058UH8V81W"
     },
-    { "github": "pandaSheltie",
+    {
+      "github": "pandaSheltie",
       "slack": "U04VBJ67XGF"
     },
     {
       "github": "ed14537",
       "slack": "U05BRPH2YF3"
     },
-    { "github": "karen-hedges",
+    {
+      "github": "karen-hedges",
       "slack": "U057J1NV62C"
     },
-    { "github": "tiagreaney",
+    {
+      "github": "tiagreaney",
       "slack": "U054PB9HS0Z"
     },
-    { "github": "WillOrchard",
+    {
+      "github": "WillOrchard",
       "slack": "U04UZJA2M8C"
     },
-    { "github": "chrisworthcgi",
+    {
+      "github": "chrisworthcgi",
       "slack": "U05EPKUDDBP"
+    },
+    {
+      "github": "uchennannamani",
+      "slack": "U05D8SK9VUP"
     }
   ]
 }
