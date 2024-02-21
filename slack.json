@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "github": "adamg-hmcts",
+      "slack": "U06ELFLDFHT"
+    },
+    {
       "github": "viktoriyabogdanova",
       "slack": "U04GLAG476D"
     },
