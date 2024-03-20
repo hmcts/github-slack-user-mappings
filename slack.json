@@ -3322,9 +3322,13 @@
       "github": "stephenmagill",
       "slack": "U06PEFLHYP7"
     },
-  {
-	  "github": "cameron-hmcts",
-	  "slack": "U06P55260R4"
-  }
+    {
+      "github": "cameron-hmcts",
+      "slack": "U06P55260R4"
+    },
+    {
+      "github": "osmansalah1",
+      "slack": "U06PH037PPT"
+    }
   ]
 }
