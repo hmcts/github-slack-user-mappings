@@ -1,5 +1,9 @@
 {
   "users": [
+    { 
+      "github": "al-hmcts",
+      "slack": "U06F5NMRSR3"
+    },
     {
       "github": "adamg-hmcts",
       "slack": "U06ELFLDFHT"
