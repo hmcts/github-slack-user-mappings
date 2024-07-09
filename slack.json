@@ -3443,6 +3443,10 @@
     {
       "github": "AdamHall-HMCTS",
       "slack": "U05FZGCNA95"
+    },
+    {
+      "github": "hmcts-platform-operations",
+      "slack": "iamabotuser"
     }
   ]
 }
