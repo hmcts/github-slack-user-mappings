@@ -3447,6 +3447,10 @@
     {
       "github": "hmcts-platform-operations",
       "slack": "iamabotuser"
+    },
+    {
+      "github": "jors95-moj",
+      "slack": "U07ANL1E8DC"
     }
   ]
 }
