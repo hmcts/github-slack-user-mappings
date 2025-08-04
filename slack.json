@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "github": "a-sealey-justice-gov",
+      "slack": "U0905QY489M"
+    },
+    {
       "github": "lydiaralphgov",
       "slack": "U07SX2JMBQX"
     },
@@ -3622,7 +3626,7 @@
     },
     {
       "github": "lukaszk-hmcts",
-      "slack": "U528ET6Q7"
+      "slack": "U0892F5BC72"
     },
     {
       "github": "ishamin2",
@@ -3707,6 +3711,114 @@
     {
       "github": "ed-graham",
       "slack": "U08FAJM4328"
+    },
+    {
+      "github": "Chi-cgi",
+      "slack": "U06KVBCSYMP"
+    },
+    {
+      "github": "SameenaHMCTS",
+      "slack": "U08HZPKQR1C"
+    },
+    {
+      "github": "lovelin-07",
+      "slack": "U08HZPE9TSS"
+    },
+    {
+      "github": "AshaJayaprakash",
+      "slack": "U08MLMZC8QH"
+    },
+    {
+      "github": "seymour-quality",
+      "slack": "U08J8JJKZC3"
+    },
+    {
+      "github": "Gautham059",
+      "slack": "U08J58FJ005"
+    },
+    {
+      "github": "DLCullen1",
+      "slack": "U077BDLHWJE"
+    },
+    {
+      "github": "madhavi1203",
+      "slack": "U08MD57S459"
+    },
+    {
+      "github": "jaina-sol",
+      "slack": "U08MHDCB2HG"
+    },
+    {
+      "github": "DanyaalZar-Solirius",
+      "slack": "U08Q97A6NJ0"
+    },
+    {
+      "github": "Ed-Radcliffe",
+      "slack": "U08Q3BFM5C5"
+    },
+    {
+      "github": "RobL681",
+      "slack": "U07M78H09CL"
+    },
+    {
+    "github": "BellaLevene",
+    "slack": "U08SRAK22JX"
+    },
+    {
+    "github": "alext-justice",
+    "slack": "U08BED4ELV7"
+    },
+    {
+    "github": "stephenokeefe",
+    "slack": "U08M2LEU0T0"
+    },
+    {
+    "github": "louisbriggs",
+    "slack": "U08RE4DE3A6"
+    },
+    {
+      "github": "Alwin-Joseph-Christopher",
+      "slack": "U08N5Q8JA3D"
+    },
+    {
+      "github": "Verinder4219",
+      "slack": "U087S8S2J4B"
+    },
+    {
+      "github": "GeorgeBarnesUK",
+      "slack": "U0812FWBQ0P"
+    },
+    { 
+      "github": "matt-goodwin-solirius", 
+      "slack": "U08T9R61PHB" 
+    },
+    {
+      "github": "Pyth0n37",
+      "slack": "U02EG26N8AC"
+    },
+    {
+      "github": "affableaussie",
+      "slack": "U090XUAGCB0"
+    },
+    { 
+      "github": "shabmama53", 
+      "slack": "U07AYVD7VB7" 
+    },
+        { 
+      "github": "AlexBuzea", 
+      "slack": "U0902T16D8D" 
+    },
+    { 
+      "github": "toby-plunkett", 
+      "slack": "U093Z142TU5" 
+    },
+    { 
+      "github": "fudge88",
+      "slack": "U093LCE0DL5" 
+    },
+    { 
+      "github": "bradeadanmarius",
+      "slack": "U08V2PQ4TS8" 
     }
   ]
 }
