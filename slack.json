@@ -3871,6 +3871,10 @@
     {
     "github": "ShanCGI",
     "slack": "U0982BYRQCT"
+    },
+    {
+      "github": "backstage-hmcts[bot]",
+      "slack": "iamabotuser"
     }
   ]
 }
