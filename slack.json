@@ -3875,6 +3875,10 @@
     {
       "github": "backstage-hmcts[bot]",
       "slack": "iamabotuser"
+    },
+    {
+      "github": "willjonescgi",
+      "slack": "U095XPV874N"
     }
   ]
 }
