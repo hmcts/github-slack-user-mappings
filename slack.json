@@ -3789,20 +3789,20 @@
       "slack": "U07M78H09CL"
     },
     {
-    "github": "BellaLevene",
-    "slack": "U08SRAK22JX"
+      "github": "BellaLevene",
+      "slack": "U08SRAK22JX"
     },
     {
-    "github": "alext-justice",
-    "slack": "U08BED4ELV7"
+      "github": "alext-justice",
+      "slack": "U08BED4ELV7"
     },
     {
-    "github": "stephenokeefe",
-    "slack": "U08M2LEU0T0"
+      "github": "stephenokeefe",
+      "slack": "U08M2LEU0T0"
     },
     {
-    "github": "louisbriggs",
-    "slack": "U08RE4DE3A6"
+      "github": "louisbriggs",
+      "slack": "U08RE4DE3A6"
     },
     {
       "github": "Alwin-Joseph-Christopher",
@@ -3816,9 +3816,9 @@
       "github": "GeorgeBarnesUK",
       "slack": "U0812FWBQ0P"
     },
-    { 
-      "github": "matt-goodwin-solirius", 
-      "slack": "U08T9R61PHB" 
+    {
+      "github": "matt-goodwin-solirius",
+      "slack": "U08T9R61PHB"
     },
     {
       "github": "Pyth0n37",
@@ -3828,29 +3828,29 @@
       "github": "affableaussie",
       "slack": "U090XUAGCB0"
     },
-    { 
-      "github": "shabmama53", 
-      "slack": "U07AYVD7VB7" 
+    {
+      "github": "shabmama53",
+      "slack": "U07AYVD7VB7"
     },
-        { 
-      "github": "AlexBuzea", 
-      "slack": "U0902T16D8D" 
+    {
+      "github": "AlexBuzea",
+      "slack": "U0902T16D8D"
     },
-    { 
-      "github": "toby-plunkett", 
-      "slack": "U093Z142TU5" 
+    {
+      "github": "toby-plunkett",
+      "slack": "U093Z142TU5"
     },
-    { 
+    {
       "github": "fudge88",
-      "slack": "U093LCE0DL5" 
+      "slack": "U093LCE0DL5"
     },
-    { 
+    {
       "github": "bradeadanmarius",
-      "slack": "U08V2PQ4TS8" 
+      "slack": "U08V2PQ4TS8"
     },
-    { 
+    {
       "github": "aqibh25",
-      "slack": "U098XLD5P9B" 
+      "slack": "U098XLD5P9B"
     },
     {
       "github": "ZakMar99",
@@ -3877,8 +3877,8 @@
       "slack": "U036QBK6JBG"
     },
     {
-    "github": "ShanCGI",
-    "slack": "U0982BYRQCT"
+      "github": "ShanCGI",
+      "slack": "U0982BYRQCT"
     },
     {
       "github": "backstage-hmcts[bot]",
@@ -3899,6 +3899,10 @@
     {
       "github": "RebeccaHayleyPickles",
       "slack": "U097H1YB3U4"
+    },
+    {
+      "github": "tomparker-solirius",
+      "slack": "U099ZN68Y90"
     }
   ]
 }
