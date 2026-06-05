@@ -4300,7 +4300,13 @@
       "github": "AyaneHMCTS",
       "slack": "U0AST0CEEHY"
     }, 
-    { "github": "sk-karimi1",
-      "slack": "U0B6JH6K63W" }
+    { 
+      "github": "sk-karimi1",
+      "slack": "U0B6JH6K63W" 
+    }, 
+    { 
+      "github": "jonathanditcher-solirius",
+      "slack": "U0B6J0S9VMJ" 
+    }
   ]
 }
