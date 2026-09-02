@@ -4403,6 +4403,10 @@
     {
       "github": "cgi-jhjsimpson",
       "slack": "U0B8FTXNL06"
+    },
+    {
+      "github": "hmcts-pr-publisher[bot]",
+      "slack": "iamabotuser"
     }
   ]
 }
